@@ -15,6 +15,6 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 2. <br> 2. The backend has been made using <b> Node JS </b>
 based on <b> MVC Architecture </b>
 3. The database has been developed using <b> Mongo DB </b>
-4. The website consists of features like User Authentication, Realtime order tracking, Admin Panel and Control, Payment gateway using `Stripe API`
+4. The website consists of features like <b> User Authentication, Realtime order tracking, Admin Panel and Control, Payment gateway using `Stripe API` </b>
 
 🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
